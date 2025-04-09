@@ -35,7 +35,13 @@
 - **Media Handling:** Cloudinary
 
 ---
+📫 Contact
+Prince Kumar
+📧 Email: princekumar.dev@gmail.com
+🌐 Portfolio: https://imprincekumar.netlify.app/
 
+⭐ Support
+If you liked this project, give it a ⭐ on GitHub and consider following for more!
 ## 🗂️ Folder Structure
 
 ```bash
