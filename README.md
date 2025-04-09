@@ -37,7 +37,7 @@
 ---
 📫 Contact
 Prince Kumar
-📧 Email: princekumar.dev@gmail.com
+📧 Email: singhaniaprince39@gmail.com
 🌐 Portfolio: https://imprincekumar.netlify.app/
 
 ⭐ Support
