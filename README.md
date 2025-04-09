@@ -1,6 +1,6 @@
 # 🛒 Prince Trendify – Full-Stack E-commerce Website
 
-[Live Demo 🚀](https://prince-trendify.netlify.app/) | [GitHub Repository 📂](https://github.com/MenathNDGD/MERN-Ecommerce)
+[Live Demo 🚀](https://prince-trendify.netlify.app/) | [GitHub Repository 📂](https://github.com/princekumar39/Ecommerce-site-trendify)
 
 **Prince Trendify** is a modern and fully functional **MERN stack e-commerce platform** offering a dynamic storefront for customers and a powerful admin dashboard for managing products, orders, and users.
 
