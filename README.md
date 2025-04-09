@@ -1,148 +1,54 @@
-# 🛒 MERN E-Commerce Website
+# 🛒 Prince Trendify – Full-Stack E-commerce Website
 
-Welcome to the **MERN E-Commerce Website**! This project is a feature-rich e-commerce application built using the powerful MERN stack, complete with an intuitive user-facing store and an all-encompassing admin dashboard.
+[Live Demo 🚀](https://prince-trendify.netlify.app/) | [GitHub Repository 📂](https://github.com/MenathNDGD/MERN-Ecommerce)
+
+**Prince Trendify** is a modern and fully functional **MERN stack e-commerce platform** offering a dynamic storefront for customers and a powerful admin dashboard for managing products, orders, and users.
+
+---
 
 ## ✨ Features
 
-### 🌟 User Frontend:
+### 🌟 User Frontend
 
-- **🔒 Secure Authentication**: Register, login, and manage user profiles effortlessly.
-- **🛍️ Product Exploration**: Browse and search through an extensive product catalog with advanced filtering options.
-- **🛒 Shopping Cart**: Add products to your cart, modify quantities, and proceed to a hassle-free checkout.
-- **💳 Seamless Payments**: Make secure payments using Stripe integration.
-- **📦 Order Management**: View order history, track deliveries, and manage returns with ease.
+- 🔒 **Secure Authentication** – Register, login, and manage user profiles using JWT.
+- 🛍️ **Product Browsing** – Explore, search, and filter products in a user-friendly interface.
+- 🛒 **Shopping Cart** – Add, update, and remove items with seamless cart management.
+- 💳 **Stripe Payments** – Pay securely using integrated Stripe checkout.
+- 📦 **Order Tracking** – View past orders, track shipments, and handle returns.
 
-### ⚙️ Admin Dashboard:
+### ⚙️ Admin Dashboard
 
-- **🛠️ Product Management**: Add, update, or delete products with a user-friendly interface.
-- **📂 Category Management**: Organize products into categories for better navigation.
-- **📑 Order Management**: View, process, and update orders efficiently.
-- **👥 User Management**: Manage user roles and access levels.
+- 🛠️ **Product Management** – Add, edit, or delete products easily.
+- 📂 **Category Control** – Organize products by categories.
+- 📑 **Order Handling** – Monitor, process, and update customer orders.
+- 👥 **User Management** – Manage users, roles, and access levels.
+
+---
 
 ## 🛠️ Tech Stack
 
-- **MongoDB**: Robust NoSQL database for storing all application data.
-- **Express.js**: Fast and minimalistic backend framework.
-- **React.js**: Modern frontend library for building dynamic user interfaces.
-- **Node.js**: JavaScript runtime environment for running the backend.
-- **Stripe**: Integrated payment gateway for processing transactions.
-- **JWT**: JSON Web Tokens for secure user sessions.
+- **Frontend:** React.js, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB with Mongoose
+- **Authentication:** JSON Web Token (JWT)
+- **Payments:** Stripe Integration
+- **Media Handling:** Cloudinary
+
+---
 
 ## 🗂️ Folder Structure
 
-```plaintext
+```bash
 /
-|-- admin/            # React.js admin frontend code
-|-- backend/          # Node.js backend code (Express.js)
-|-- frontend/         # React.js frontend code
-|-- .gitignore        # Files and folders to be ignored by Git
-|-- README.md         # Project documentation
-```
+├── admin/        # Admin dashboard built with React.js
+├── backend/      # Node.js backend with Express.js
+├── frontend/     # User-facing React.js storefront
+├── .gitignore
+├── README.md
 
-## 🤸 Quick Start
 
-Follow these steps to set up the project locally on your machine.
+🚀 Getting Started
+Clone the repository and install dependencies:
+git clone https://github.com/princekumar39/Ecommerce-site-trendify
 
-**Prerequisites**
 
-Make sure you have the following installed on your machine:
-
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [NPM](https://www.npmjs.com/) (Node Package Manager)
-
-**Cloning the Repository**
-
-```bash
-git clone https://github.com/MenathNDGD/MERN-Ecommerce.git
-```
-
-**Installation**
-
-Install the project dependencies using npm:
-
-```bash
-npm install
-```
-
-**Set Up Environment Variables**
-
-<details>
-<summary><code>/admin/.env</code></summary>
-
-```env
-VITE_BACKEND_URL = "http://localhost:4000"
-```
-
-</details>
-
-<details>
-<summary><code>/backend/.env</code></summary>
-
-```env
-MONGODB_URI =
-
-CLOUDINARY_API_KEY =
-
-CLOUDINARY_SECRET_KEY =
-
-CLOUDINARY_CLOUD_NAME =
-
-JWT_SECRET =
-
-ADMIN_EMAIL = "admin@trendify.com" #For testing only
-
-ADMIN_PASSWORD = "admin@123" #For testing only
-
-```
-
-</details>
-
-<details>
-<summary><code>/frontend/.env</code></summary>
-
-```env
-VITE_BACKEND_URL = "http://localhost:4000"
-```
-
-</details>
-
-Replace the placeholder values with your actual Appwrite credentials.
-
-**Running the Project**
-
-**Admin Dashboard Running On:**
-
-```bash
-cd admin
-```
-
-```bash
-npm run dev
-```
-
-**Backend Running On:**
-
-```bash
-cd backend
-```
-
-```bash
-npm run server
-```
-
-**Frontend Running On:**
-
-```bash
-cd frontend
-```
-
-```bash
-npm run dev
-```
-
-Open [http://localhost:5174](http://localhost:5174) in your browser to view the admin dashboard.
-
-Open [http://localhost:400](http://localhost:400) in your browser to run the backend.
-
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the frontend project.
