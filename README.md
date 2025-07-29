@@ -72,27 +72,33 @@ Tools & Services:
 .Environment configuration
 .API documentation
 
-📁 Project Structure
+<h2>📁 Project Structure</h2>
+
+<pre>
+<code>
 voguenest/
-├── admin/              # Admin dashboard built with React.js
+├── admin/             # Admin dashboard built with React.js
 │   ├── src/
 │   ├── public/
 │   ├── package.json
 │   └── README.md
-├── backend/            # Node.js backend with Express.js
+├── backend/           # Node.js backend with Express.js
 │   ├── routes/
 │   ├── models/
 │   ├── middleware/
 │   ├── controllers/
 │   ├── config/
 │   └── server.js
-├── frontend/           # User-facing React.js storefront
+├── frontend/          # User-facing React.js storefront
 │   ├── src/
 │   ├── public/
 │   ├── package.json
 │   └── README.md
 ├── .gitignore
 └── README.md
+</code>
+</pre>
+
 
 🔮 Future Enhancements
 
