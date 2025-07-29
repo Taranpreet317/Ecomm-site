@@ -11,8 +11,8 @@ const ShopContextProvider = (props) => {
   const [cartItems, setCartItems] = useState({});
   const navigate = useNavigate();
 
-  const currency = "$";
-  const delivery_fee = 10;
+  const currency = "Rs.";
+  const delivery_fee = 100;
 
   useEffect(() => {
     // INFO: Load cart items from localStorage when the component mounts

@@ -13,7 +13,7 @@ const Footer = () => {
             <img src={assets.logo} className='w-32 mb-5 cursor-pointer' alt="Trendify" />
           </Link>
           <p className='text-gray-600 md:w-2/3'>
-            Thank you for shopping with Trendify! We're dedicated to bringing you the latest trends and top-quality products. Follow us on social media for updates on new arrivals, exclusive offers, and more.
+            Thank you for shopping with VogueNest! We're dedicated to bringing you the latest trends and top-quality products. Follow us on social media for updates on new arrivals, exclusive offers, and more.
           </p>
         </div>
 
@@ -32,8 +32,8 @@ const Footer = () => {
         <div>
           <p className='mb-5 text-xl font-medium'>GET IN TOUCH</p>
           <ul className='flex flex-col gap-1 text-gray-600'>
-            <li>+91 7061521143</li>
-            <li>contact.trendify@info.com</li>
+            <li>+91 98782XXXXX</li>
+            <li>contact.VogueNest@767.com</li>
           </ul>
         </div>
       </div>
@@ -41,20 +41,20 @@ const Footer = () => {
       {/* Footer Bottom - Black Background Section */}
       <div className='bg-black mt-10 text-sm text-center text-gray-400 pt-5'>
         <p className='pb-3'>
-          Developed By <u className='text-white'>Prince Kumar</u>. Copyright 2025 Trendify. All rights reserved.
+           <u className='text-white'></u>© 2025 VogueNest. All rights reserved.
         </p>
 
         <div className='flex justify-center gap-6 text-lg pb-5'>
-          <a href="https://www.linkedin.com/in/prince-kumar-455284260/" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">
+          <a href="" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">
             <FaLinkedin />
           </a>
-          <a href="https://github.com/princekumar39" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">
+          <a href="" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">
             <FaGithub />
           </a>
-          <a href="https://imprincekumar.netlify.app/" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">
+          <a href="" target="_blank" rel="noopener noreferrer" className="hover:text-white transition">
             <FaGlobe />
           </a>
-          <a href="mailto:singhaniaprince39@gmail.com" className="hover:text-white transition">
+          <a href="" className="hover:text-white transition">
             <FaEnvelope />
           </a>
         </div>
