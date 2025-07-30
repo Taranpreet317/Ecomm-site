@@ -46,34 +46,45 @@ Streamlined checkout with multiple payment options
 </ul>
 
 
-🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
-Frontend (User Store):
-.React.js 18
-.CSS3 with modern styling
-.Responsive Grid Layout
-.React Router for navigation
+<h3>Frontend (User Store):</h3>
+<ul>
+  <li>React.js 18</li>
+  <li>CSS3 with modern styling</li>
+  <li>Responsive Grid Layout</li>
+  <li>React Router for navigation</li>
+</ul>
 
-Backend:
-.Node.js
-.Express.js
-.RESTful API architecture
-.JWT Authentication
+<h3>Backend:</h3>
+<ul>
+  <li>Node.js</li>
+  <li>Express.js</li>
+  <li>RESTful API architecture</li>
+  <li>JWT Authentication</li>
+</ul>
 
-Database & Storage:
-.MongoDB / MySQL
-.Image storage solution
-.Session management
+<h3>Database & Storage:</h3>
+<ul>
+  <li>MongoDB / MySQL</li>
+  <li>Image storage solution</li>
+  <li>Session management</li>
+</ul>
 
-Payment Integration:
-.Stripe Payment Gateway
-.Razorpay Integration
-.Cash on Delivery option
+<h3>Payment Integration:</h3>
+<ul>
+  <li>Stripe Payment Gateway</li>
+  <li>Razorpay Integration</li>
+  <li>Cash on Delivery option</li>
+</ul>
 
-Tools & Services:
-.Git version control
-.Environment configuration
-.API documentation
+<h3>Tools & Services:</h3>
+<ul>
+  <li>Git version control</li>
+  <li>Environment configuration</li>
+  <li>API documentation</li>
+</ul>
+
 
 <h2>📁 Project Structure</h2>
 
@@ -102,20 +113,21 @@ voguenest/
 </code>
 </pre>
 
-🔮 Future Enhancements
-
-.📱 Mobile app development
-.🤖 AI-powered product recommendations
-.🌍 Multi-language support
-.📦 Advanced inventory forecasting
-.🎨 AR try-on features
-.💬 Live chat support
-.🔔 Push notifications
-.📈 Advanced analytics dashboard
+<h2>🔮 Future Enhancements</h2>
+<ul>
+  <li>📱 <strong>Mobile App Development</strong></li>
+  <li>🤖 <strong>AI-Powered Product Recommendations</strong></li>
+  <li>🌍 <strong>Multi-Language Support</strong></li>
+  <li>📦 <strong>Advanced Inventory Forecasting</strong></li>
+  <li>🎨 <strong>AR Try-On Features</strong></li>
+  <li>💬 <strong>Live Chat Support</strong></li>
+  <li>🔔 <strong>Push Notifications</strong></li>
+  <li>📈 <strong>Advanced Analytics Dashboard</strong></li>
+</ul>
 
 👨‍💻 Author
-TARANPREET SINGH
-GitHub:@Taranpreet317
+<p>TARANPREET SINGH</p>
+<p>GitHub:@Taranpreet317</p>
 
 
 <div align="center">
