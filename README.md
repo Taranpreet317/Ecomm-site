@@ -31,17 +31,20 @@ Streamlined checkout with multiple payment options
 🧑‍💼Order Tracking and Management
 ![OrderTracking](./Screenshots/checkout-process2.png)
 
-✨ Features
-🎨 Modern UI/UX - Clean, fashion-forward design with elegant typography
-👕 Product Management - Complete catalog with categories, filters, and search
-🛒 Shopping Cart - Seamless add-to-cart and checkout experience
-💳 Multiple Payment Options - Stripe, Razorpay, and Cash on Delivery
-🔐 Admin Dashboard - Comprehensive admin panel for inventory management
-⭐ Product Reviews - Customer rating and review system
-🚚 Order Tracking - Real-time order status updates
-🎯 Advanced Filtering - Filter by category, type, price, and more
-💌 Newsletter Subscription - Email marketing integration
-🔒 Secure Authentication - JWT-based user authentication
+<h2>✨ Features</h2>
+<ul>
+  <li>🎨 <strong>Modern UI/UX</strong> – Clean, fashion-forward design with elegant typography</li>
+  <li>👕 <strong>Product Management</strong> – Complete catalog with categories, filters, and search</li>
+  <li>🛒 <strong>Shopping Cart</strong> – Seamless add-to-cart and checkout experience</li>
+  <li>💳 <strong>Multiple Payment Options</strong> – Stripe, Razorpay, and Cash on Delivery</li>
+  <li>🔐 <strong>Admin Dashboard</strong> – Comprehensive admin panel for inventory management</li>
+  <li>⭐ <strong>Product Reviews</strong> – Customer rating and review system</li>
+  <li>🚚 <strong>Order Tracking</strong> – Real-time order status updates</li>
+  <li>🎯 <strong>Advanced Filtering</strong> – Filter by category, type, price, and more</li>
+  <li>💌 <strong>Newsletter Subscription</strong> – Email marketing integration</li>
+  <li>🔒 <strong>Secure Authentication</strong> – JWT-based user authentication</li>
+</ul>
+
 
 🛠️ Tech Stack
 
@@ -98,7 +101,6 @@ voguenest/
 └── README.md
 </code>
 </pre>
-
 
 🔮 Future Enhancements
 
